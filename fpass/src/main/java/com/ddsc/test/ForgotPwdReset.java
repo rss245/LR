@@ -6,6 +6,6 @@ import com.liferay.util.bridges.mvc.MVCPortlet;
  * Portlet implementation class ForgotPwdReset
  */
 public class ForgotPwdReset extends MVCPortlet {
- 
+ int y=0;
 
 }
